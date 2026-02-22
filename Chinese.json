@@ -5168,7 +5168,7 @@
     },
     {
       "Key": "Items/CANISTER/Description",
-      "Translation": "<i>アイテム、弾薬</i>\nムスケト弾を詰め込んだ錫製の容器。野戦砲を巨大な散弾銃へと変貌させる。密集した歩兵隊に対し、至近距離で壊滅的な威力を発揮する。",
+      "Translation": "<i>アイテム、弾薬</i>\nマスケット弾を詰め込んだ錫製の容器。野戦砲を巨大な散弾銃へと変貌させる。密集した歩兵隊に対し、至近距離で壊滅的な威力を発揮する。",
       "VariableCount": 0
     },
     {
@@ -5228,7 +5228,7 @@
     },
     {
       "Key": "Items/BUCKSHOT_ROUNDS/Description",
-      "Translation": "<i>アイテム、弾薬</i>\n小型の鉛粒を詰め込んだ改造ムスケト弾。命中精度を犠牲にする代わりに、致死性の高い散弾を放つ。待ち伏せや散兵による運用に適している。",
+      "Translation": "<i>アイテム、弾薬</i>\n小型の鉛粒を詰め込んだ改造マスケット弾。命中精度を犠牲にする代わりに、致死性の高い散弾を放つ。待ち伏せや散兵による運用に適している。",
       "VariableCount": 0
     },
     {
@@ -5268,7 +5268,7 @@
     },
     {
       "Key": "Items/QUATERED_MUSKET_BALLS/Description",
-      "Translation": "<i>アイテム、弾薬</i>\n深い切り込みを入れたムスケト弾。回転が安定し、着弾時に飛散することでより大きな深手を負わせる。",
+      "Translation": "<i>アイテム、弾薬</i>\n深い切り込みを入れたマスケット弾。回転が安定し、着弾時に飛散することでより大きな深手を負わせる。",
       "VariableCount": 0
     },
     {
@@ -6278,7 +6278,7 @@
     },
     {
       "Key": "Items/DASCHUND_MASCOT/Description",
-      "Translation": "<i>アイテム、マスコット</i>\n体は小さいが、気概は無限大。士気を高め、視界を研ぎ澄ませる。その吠え声はムスケトの弾丸よりも遠くまで届くかのようだ。",
+      "Translation": "<i>アイテム、マスコット</i>\n体は小さいが、気概は無限大。士気を高め、視界を研ぎ澄ませる。その吠え声はマスケットの弾丸よりも遠くまで届くかのようだ。",
       "VariableCount": 0
     },
     {
@@ -6988,7 +6988,7 @@
     },
     {
       "Key": "Weapon/POTZDAM_MUSKET/Name",
-      "Translation": "ポツダム・ムスケト銃（基本）",
+      "Translation": "ポツダム・マスケット銃（基本）",
       "VariableCount": 0
     },
     {
@@ -6998,7 +6998,7 @@
     },
     {
       "Key": "Weapon/NEUSTADT_MUSKET/Name",
-      "Translation": "ノイシュタット・ムスケト銃（基本）",
+      "Translation": "ノイシュタット・マスケット銃（基本）",
       "VariableCount": 0
     },
     {
@@ -7008,7 +7008,7 @@
     },
     {
       "Key": "Weapon/TULA_MUSKET/Name",
-      "Translation": "トゥーラ・ムスケト銃（基本）",
+      "Translation": "トゥーラ・マスケット銃（基本）",
       "VariableCount": 0
     },
     {
@@ -7018,7 +7018,7 @@
     },
     {
       "Key": "Weapon/CHARLEVILLE_MUSKET/Name",
-      "Translation": "シャルルヴィル・ムスケト銃（基本）",
+      "Translation": "シャルルヴィル・マスケット銃（基本）",
       "VariableCount": 0
     },
     {
@@ -7043,7 +7043,7 @@
     },
     {
       "Key": "Weapon/JONKOPING_MUSKET/Name",
-      "Translation": "ヨンショーピング・ムスケト銃（基本）",
+      "Translation": "ヨンショーピング・マスケット銃（基本）",
       "VariableCount": 0
     },
     {
@@ -7053,7 +7053,7 @@
     },
   {
       "Key": "Weapon/DELFT_MUSKET/Name",
-      "Translation": "デルフト・ムスケト銃（基本）",
+      "Translation": "デルフト・マスケット銃（基本）",
       "VariableCount": 0
     },
     {
@@ -7063,17 +7063,17 @@
     },
     {
       "Key": "Weapon/RUSTIC_MUSKET/Name",
-      "Translation": "使い古されたムスケト銃（基本）",
+      "Translation": "使い古されたマスケット銃（基本）",
       "VariableCount": 0
     },
     {
       "Key": "Weapon/TRAINING_MUSKET/Name",
-      "Translation": "予備用ムスケト銃（基本）",
+      "Translation": "予備用マスケット銃（基本）",
       "VariableCount": 0
     },
     {
       "Key": "Weapon/SUHL_MUSKET/Name",
-      "Translation": "ズール・ムスケト銃（基本）",
+      "Translation": "ズール・マスケット銃（基本）",
       "VariableCount": 0
     },
     {
@@ -7083,7 +7083,7 @@
     },
     {
       "Key": "Weapon/REINFORCED_POTZDAM_MUSKET/Name",
-      "Translation": "ポツダム・ムスケト銃（良質）",
+      "Translation": "ポツダム・マスケット銃（良質）",
       "VariableCount": 0
     },
     {
@@ -7093,7 +7093,7 @@
     },
     {
       "Key": "Weapon/REINFORCED_NEUSTADT_MUSKET/Name",
-      "Translation": "ノイシュタット・ムスケト銃（良質）",
+      "Translation": "ノイシュタット・マスケット銃（良質）",
       "VariableCount": 0
     },
     {
@@ -7103,7 +7103,7 @@
     },
     {
       "Key": "Weapon/REINFORCED_TULA_MUSKET/Name",
-      "Translation": "トゥーラ・ムスケト銃（良質）",
+      "Translation": "トゥーラ・マスケット銃（良質）",
       "VariableCount": 0
     },
     {
@@ -7113,7 +7113,7 @@
     },
     {
       "Key": "Weapon/REINFORCED_CHARLEVILLE_MUSKET/Name",
-      "Translation": "シャルルヴィル・ムスケト銃（良質）",
+      "Translation": "シャルルヴィル・マスケット銃（良質）",
       "VariableCount": 0
     },
     {
@@ -7138,7 +7138,7 @@
     },
     {
       "Key": "Weapon/REINFORCED_JONKOPING_MUSKET/Name",
-      "Translation": "ヨンショーピング・ムスケト銃（良質）",
+      "Translation": "ヨンショーピング・マスケット銃（良質）",
       "VariableCount": 0
     },
     {
@@ -7148,7 +7148,7 @@
     },
     {
       "Key": "Weapon/REINFORCED_DELFT_MUSKET/Name",
-      "Translation": "デルフト・ムスケト銃（良質）",
+      "Translation": "デルフト・マスケット銃（良質）",
       "VariableCount": 0
     },
     {
@@ -7158,7 +7158,7 @@
     },
     {
       "Key": "Weapon/REINFORCED_SUHL_MUSKET/Name",
-      "Translation": "ズール・ムスケト銃（良質）",
+      "Translation": "ズール・マスケット銃（良質）",
       "VariableCount": 0
     },
     {
@@ -7168,7 +7168,7 @@
     },
     {
       "Key": "Weapon/SUPERIOR_POTZDAM_MUSKET/Name",
-      "Translation": "ポツダム・ムスケト銃（最高品質）",
+      "Translation": "ポツダム・マスケット銃（最高品質）",
       "VariableCount": 0
     },
     {
@@ -7178,7 +7178,7 @@
     },
     {
       "Key": "Weapon/SUPERIOR_NEUSTADT_MUSKET/Name",
-      "Translation": "ノイシュタット・ムスケト銃（最高品質）",
+      "Translation": "ノイシュタット・マスケット銃（最高品質）",
       "VariableCount": 0
     },
     {
@@ -7188,7 +7188,7 @@
     },
     {
       "Key": "Weapon/SUPERIOR_TULA_MUSKET/Name",
-      "Translation": "トゥーラ・ムスケト銃（最高品質）",
+      "Translation": "トゥーラ・マスケット銃（最高品質）",
       "VariableCount": 0
     },
     {
@@ -7198,7 +7198,7 @@
     },
     {
       "Key": "Weapon/SUPERIOR_CHARLEVILLE_MUSKET/Name",
-      "Translation": "シャルルヴィル・ムスケト銃（最高品質）",
+      "Translation": "シャルルヴィル・マスケット銃（最高品質）",
       "VariableCount": 0
     },
     {
@@ -7223,7 +7223,7 @@
     },
     {
       "Key": "Weapon/SUPERIOR_JONKOPING_MUSKET/Name",
-      "Translation": "ヨンショーピング・ムスケト銃（最高品質）",
+      "Translation": "ヨンショーピング・マスケット銃（最高品質）",
       "VariableCount": 0
     },
     {
@@ -7233,7 +7233,7 @@
     },
     {
       "Key": "Weapon/SUPERIOR_DELFT_MUSKET/Name",
-      "Translation": "デルフト・ムスケト銃（最高品質）",
+      "Translation": "デルフト・マスケット銃（最高品質）",
       "VariableCount": 0
     },
     {
@@ -7243,7 +7243,7 @@
     },
     {
       "Key": "Weapon/SUPERIOR_SUHL_MUSKET/Name",
-      "Translation": "ズール・ムスケト銃（最高品質）",
+      "Translation": "ズール・マスケット銃（最高品質）",
       "VariableCount": 0
     },
     {
@@ -7253,7 +7253,7 @@
     },
     {
       "Key": "Weapon/POTZDAM_MUSKET/Desc",
-      "Translation": "<i>主兵装、ムスケト銃</i>\nプロイセン製。極めて優れた<color=#009300>装填速度</color>を持つが、<color=#CB2225>突撃力</color>は低い。",
+      "Translation": "<i>主兵装、マスケット銃</i>\nプロイセン製。極めて優れた<color=#009300>装填速度</color>を持つが、<color=#CB2225>突撃力</color>は低い。",
       "VariableCount": 0
     },
     {
@@ -7263,7 +7263,7 @@
     },
     {
       "Key": "Weapon/NEUSTADT_MUSKET/Desc",
-      "Translation": "<i>主兵装、ムスケト銃</i>\nオーストリア製。優れた<color=#009300>射程</color>を誇るが、<color=#CB2225>装填</color>が遅い。",
+      "Translation": "<i>主兵装、マスケット銃</i>\nオーストリア製。優れた<color=#009300>射程</color>を誇るが、<color=#CB2225>装填</color>が遅い。",
       "VariableCount": 0
     },
     {
@@ -7273,7 +7273,7 @@
     },
     {
       "Key": "Weapon/TULA_MUSKET/Desc",
-      "Translation": "<i>主兵装、ムスケト銃</i>\nロシア製。強力な<color=#009300>近接戦闘力</color>を備えるが、<color=#CB2225>命中精度</color>に欠ける。",
+      "Translation": "<i>主兵装、マスケット銃</i>\nロシア製。強力な<color=#009300>近接戦闘力</color>を備えるが、<color=#CB2225>命中精度</color>に欠ける。",
       "VariableCount": 0
     },
     {
@@ -7283,7 +7283,7 @@
     },
     {
       "Key": "Weapon/CHARLEVILLE_MUSKET/Desc",
-      "Translation": "<i>主兵装、ムスケト銃</i>\nフランス製。優れた<color=#009300>射程</color>を持つが、<color=#CB2225>近接戦闘</color>には極めて不向き。",
+      "Translation": "<i>主兵装、マスケット銃</i>\nフランス製。優れた<color=#009300>射程</color>を持つが、<color=#CB2225>近接戦闘</color>には極めて不向き。",
       "VariableCount": 0
     },
     {
@@ -7293,7 +7293,7 @@
     },
     {
       "Key": "Weapon/BROWNBESS_MUSKET/Desc",
-      "Translation": "<i>主兵装、ムスケト銃</i>\nイギリス製。優れた<color=#009300>命中精度</color>を誇るが、<color=#CB2225>射程</color>が短い。",
+      "Translation": "<i>主兵装、マスケット銃</i>\nイギリス製。優れた<color=#009300>命中精度</color>を誇るが、<color=#CB2225>射程</color>が短い。",
       "VariableCount": 0
     },
     {
@@ -7303,7 +7303,7 @@
     },
     {
       "Key": "Weapon/SUHL_MUSKET/Desc",
-      "Translation": "<i>主兵装、ムスケト銃</i>\nドイツ製。良好な<color=#009300>命中精度</color>を持つ。",
+      "Translation": "<i>主兵装、マスケット銃</i>\nドイツ製。良好な<color=#009300>命中精度</color>を持つ。",
       "VariableCount": 0
     },
     {
@@ -7313,12 +7313,12 @@
     },
     {
       "Key": "Weapon/JAGER_RIFLE/Desc",
-      "Translation": "<i>主兵装、ムスケト銃</i>\nドイツ製。最高クラスの<color=#009300>命中精度と射程</color>を誇るが、<color=#CB2225>装填と近接戦闘</color>能力は極めて低い。",
+      "Translation": "<i>主兵装、マスケット銃</i>\nドイツ製。最高クラスの<color=#009300>命中精度と射程</color>を誇るが、<color=#CB2225>装填と近接戦闘</color>能力は極めて低い。",
       "VariableCount": 0
     },
     {
       "Key": "Weapon/JONKOPING_MUSKET/Desc",
-      "Translation": "<i>主兵装、ムスケト銃</i>\nスウェーデン製。優れた<color=#009300>近接戦闘力</color>を持つが、<color=#CB2225>射程</color>は短い。",
+      "Translation": "<i>主兵装、マスケット銃</i>\nスウェーデン製。優れた<color=#009300>近接戦闘力</color>を持つが、<color=#CB2225>射程</color>は短い。",
       "VariableCount": 0
     },
     {
@@ -7328,7 +7328,7 @@
     },
     {
       "Key": "Weapon/DELFT_MUSKET/Desc",
-      "Translation": "<i>主兵装、ムスケト銃</i>\nオランダ製。良好な<color=#009300>射程</color>を持つが、<color=#CB2225>近接戦闘</color>には不向き。",
+      "Translation": "<i>主兵装、マスケット銃</i>\nオランダ製。良好な<color=#009300>射程</color>を持つが、<color=#CB2225>近接戦闘</color>には不向き。",
       "VariableCount": 0
     },
     {
@@ -7338,12 +7338,12 @@
     },
     {
       "Key": "Weapon/RUSTIC_MUSKET/Desc",
-      "Translation": "<i>主兵装、ムスケト銃</i>\n農民向け。全体的に<color=#CB2225>性能が低く</color>、<color=#CB2225>射程</color>も劣悪。一斉射撃ごとの弾薬消費量が<color=#009300>25%少ない</color>。",
+      "Translation": "<i>主兵装、マスケット銃</i>\n農民向け。全体的に<color=#CB2225>性能が低く</color>、<color=#CB2225>射程</color>も劣悪。一斉射撃ごとの弾薬消費量が<color=#009300>25%少ない</color>。",
       "VariableCount": 0
     },
     {
       "Key": "Weapon/TRAINING_MUSKET/Desc",
-      "Translation": "<i>主兵装、ムスケト銃</i>\n訓練用。あらゆる属性で<color=#CB2225>劣る</color>。一斉射撃ごとの弾薬消費量が<color=#009300>25%少ない</color>。",
+      "Translation": "<i>主兵装、マスケット銃</i>\n訓練用。あらゆる属性で<color=#CB2225>劣る</color>。一斉射撃ごとの弾薬消費量が<color=#009300>25%少ない</color>。",
       "VariableCount": 0
     },
     {
@@ -9568,7 +9568,7 @@
     },
     {
       "Key": "Stratagem/GermanArmsProductionBody",
-      "Translation": "ムスケト銃およびカービン銃のコスト <color=#009300>{0}%</color>",
+      "Translation": "マスケット銃およびカービン銃のコスト <color=#009300>{0}%</color>",
       "VariableCount": 1
     },
     {
@@ -11928,7 +11928,7 @@
     },
     {
       "Key": "Encounter/PRISONER_WAGONS/Choice_3/ButtonTooltip",
-      "Translation": "• 在庫からムスケト銃を <color=#CB2225>-{0}</color> 提供\n• 新兵歩兵連隊を <color=#009300>+{1}</color> 個強制徴募する\n\n<i>必要：在庫にムスケト銃アイテムが {0} 個</i>",
+      "Translation": "• 在庫からマスケット銃を <color=#CB2225>-{0}</color> 提供\n• 新兵歩兵連隊を <color=#009300>+{1}</color> 個強制徴募する\n\n<i>必要：在庫にマスケット銃アイテムが {0} 個</i>",
       "VariableCount": 2
     },
     {
@@ -12608,7 +12608,7 @@
     },
     {
       "Key": "Encounter/Events/CONTRABAND_SUCCESS/Desc",
-      "Translation": "閣下、\n床板の下や二重になった樽の中から、隠された物資を発見しました。火薬、弾丸、予備の火打ち石、薬筒紙、そしてムスケト銃の部品が見つかり、野戦弾薬庫に相応しい道具も揃っていました。御者たちは関与を否定しましたが、一人が積荷は敵の集積所へ運ぶ予定だったと白状しました。\n\n違法な品々は我々で使用するために没収し、監視を付けました。首謀者はさらなる尋問のために拘束しました。時間は費やしましたが、それに見合う戦利品です。",
+      "Translation": "閣下、\n床板の下や二重になった樽の中から、隠された物資を発見しました。火薬、弾丸、予備の火打ち石、薬筒紙、そしてマスケット銃の部品が見つかり、野戦弾薬庫に相応しい道具も揃っていました。御者たちは関与を否定しましたが、一人が積荷は敵の集積所へ運ぶ予定だったと白状しました。\n\n違法な品々は我々で使用するために没収し、監視を付けました。首謀者はさらなる尋問のために拘束しました。時間は費やしましたが、それに見合う戦利品です。",
       "VariableCount": 0
     },
     {
@@ -12888,7 +12888,7 @@
     },
     {
       "Key": "Encounter/Events/RIVERCROSSING_FAILURE/Desc",
-      "Translation": "閣下、\n川の中ほどで敵哨兵の叫び声が響き渡り、対岸に次々と篝火が灯りました。ムスケト銃の掃射を受け、二隻の小舟が流されて葦原に突っ込みました。いくつかのいかだも転覆し、多くの兵士が川に飲まれ、残りは散発的な射撃を受けながら引き返さざるを得ませんでした。\n\n負傷者と行方不明者を抱えて、命からがらこちらの岸に戻りました。敵は今や渡河地点を厳重に監視しており、奇襲の機会は失われました。兵たちの士気は保たれていますが、再試行にはより良い舟艇か、別の渡河場所が必要です。",
+      "Translation": "閣下、\n川の中ほどで敵哨兵の叫び声が響き渡り、対岸に次々と篝火が灯りました。マスケット銃の掃射を受け、二隻の小舟が流されて葦原に突っ込みました。いくつかのいかだも転覆し、多くの兵士が川に飲まれ、残りは散発的な射撃を受けながら引き返さざるを得ませんでした。\n\n負傷者と行方不明者を抱えて、命からがらこちらの岸に戻りました。敵は今や渡河地点を厳重に監視しており、奇襲の機会は失われました。兵たちの士気は保たれていますが、再試行にはより良い舟艇か、別の渡河場所が必要です。",
       "VariableCount": 0
     },
     {
@@ -13128,7 +13128,7 @@
     },
     {
       "Key": "Encounter/Events/FORT_BREACHED/Desc",
-      "Translation": "閣下、\n主壁は崩れ、眼前に突破口が開いています。守備隊は拒馬（シュヴォー・ド・フリーズ）を散らし、瓦礫を掃射するために砲を据え、あらゆる接近経路へムスケト銃の火力を集中させています。軍医、梯子隊、そして擲弾兵たちは持ち場について待機しています。\n\nラヴリン（半月堡）や門への陽動を行いつつ、一気に隙間へなだれ込むか、あるいは敵の反撃が弱まるまで砲撃を長引かせるか。決断の時が迫っています。",
+      "Translation": "閣下、\n主壁は崩れ、眼前に突破口が開いています。守備隊は拒馬（シュヴォー・ド・フリーズ）を散らし、瓦礫を掃射するために砲を据え、あらゆる接近経路へマスケット銃の火力を集中させています。軍医、梯子隊、そして擲弾兵たちは持ち場について待機しています。\n\nラヴリン（半月堡）や門への陽動を行いつつ、一気に隙間へなだれ込むか、あるいは敵の反撃が弱まるまで砲撃を長引かせるか。決断の時が迫っています。",
       "VariableCount": 0
     },
     {
@@ -15048,7 +15048,7 @@
     },
     {
       "Key": "Ability/ToggleBayonet/Description",
-      "Translation": "ムスケト銃に銃剣を装着し、白兵戦ダメージを増加させます。",
+      "Translation": "マスケット銃に銃剣を装着し、白兵戦ダメージを増加させます。",
       "VariableCount": 0
     },
     {

@@ -648,7 +648,7 @@
     },
     {
       "Key": "View/PostBattleView/BattleOf",
-      "Translation": "〜の戦い",
+      "Translation": "会戦",
       "VariableCount": 0
     },
     {
@@ -2663,57 +2663,57 @@
     },
   {
       "Key": "Units/Name/PRU_Freikorps_Infantry",
-      "Translation": "フリイコール戦列歩兵",
+      "Translation": "フライコール戦列歩兵",
       "VariableCount": 0
     },
     {
       "Key": "Units/Name/PRU_Freikorps_Drilled_Infantry",
-      "Translation": "フリイコール精鋭戦列歩兵",
+      "Translation": "フライコール精鋭戦列歩兵",
       "VariableCount": 0
     },
     {
       "Key": "Units/Name/PRU_Freikorps_Jaegers",
-      "Translation": "フリイコール猟兵（イェーガー）",
+      "Translation": "フライコール猟兵（イェーガー）",
       "VariableCount": 0
     },
     {
       "Key": "Units/Name/PRU_Freikorps_Drilled_Jaegers",
-      "Translation": "フリイコール精鋭猟兵",
+      "Translation": "フライコール精鋭猟兵",
       "VariableCount": 0
     },
     {
       "Key": "Units/Name/PRU_Freikorps_Grenadiers",
-      "Translation": "フリイコール擲弾兵",
+      "Translation": "フライコール擲弾兵",
       "VariableCount": 0
     },
     {
       "Key": "Units/Name/PRU_Freikorps_Provincial_Cavalry",
-      "Translation": "フリイコール地方騎兵",
+      "Translation": "フライコール地方騎兵",
       "VariableCount": 0
     },
     {
       "Key": "Units/Name/PRU_Freikorps_Hussars",
-      "Translation": "フリイコール軽騎兵",
+      "Translation": "フライコール軽騎兵",
       "VariableCount": 0
     },
     {
       "Key": "Units/Name/PRU_Freikorps_Veteran_Hussars",
-      "Translation": "フリイコール精鋭軽騎兵",
+      "Translation": "フライコール精鋭軽騎兵",
       "VariableCount": 0
     },
     {
       "Key": "Units/Name/PRU_Freikorps_Dragoons",
-      "Translation": "フリイコール竜騎兵",
+      "Translation": "フライコール竜騎兵",
       "VariableCount": 0
     },
     {
       "Key": "Units/Name/PRU_Freikorps_Reserve_Artillery",
-      "Translation": "フリイコール大隊砲兵",
+      "Translation": "フライコール大隊砲兵",
       "VariableCount": 0
     },
     {
       "Key": "Units/NamePRU_Freikorps_Field_Artillery",
-      "Translation": "フリイコール野戦砲兵",
+      "Translation": "フライコール野戦砲兵",
       "VariableCount": 0
     },
     {
@@ -2858,62 +2858,62 @@
     },
     {
       "Key": "Units/Desc/PRU_Freikorps_Recruits",
-      "Translation": "<i>新兵、フリイコール（義勇軍）</i>",
+      "Translation": "<i>新兵、フライコール（義勇軍）</i>",
       "VariableCount": 0
     },
     {
       "Key": "Units/Desc/PRU_Freikorps_Infantry",
-      "Translation": "<i>戦列歩兵、フリイコール・ムスケティア</i>",
+      "Translation": "<i>戦列歩兵、フライコール・ムスケティア</i>",
       "VariableCount": 0
     },
     {
       "Key": "Units/Desc/PRU_Freikorps_Drilled_Infantry",
-      "Translation": "<i>戦列歩兵、フリイコール精鋭ムスケティア</i>",
+      "Translation": "<i>戦列歩兵、フライコール精鋭ムスケティア</i>",
       "VariableCount": 0
     },
     {
       "Key": "Units/Desc/PRU_Freikorps_Jaegers",
-      "Translation": "<i>軽歩兵、フリイコール猟兵（イェーガー）</i>",
+      "Translation": "<i>軽歩兵、フライコール猟兵（イェーガー）</i>",
       "VariableCount": 0
     },
     {
       "Key": "Units/Desc/PRU_Freikorps_Drilled_Jaegers",
-      "Translation": "<i>軽歩兵、フリイコール精鋭猟兵</i>",
+      "Translation": "<i>軽歩兵、フライコール精鋭猟兵</i>",
       "VariableCount": 0
     },
     {
       "Key": "Units/Desc/PRU_Freikorps_Grenadiers",
-      "Translation": "<i>重歩兵、フリイコール擲弾兵</i>",
+      "Translation": "<i>重歩兵、フライコール擲弾兵</i>",
       "VariableCount": 0
     },
     {
       "Key": "Units/Desc/PRU_Freikorps_Provincial_Cavalry",
-      "Translation": "<i>軽騎兵、フリイコール地方騎兵</i>",
+      "Translation": "<i>軽騎兵、フライコール地方騎兵</i>",
       "VariableCount": 0
     },
     {
       "Key": "Units/Desc/PRU_Freikorps_Hussars",
-      "Translation": "<i>軽騎兵、フリイコール軽騎兵（ハッサー）</i>",
+      "Translation": "<i>軽騎兵、フライコール軽騎兵（ハッサー）</i>",
       "VariableCount": 0
     },
     {
       "Key": "Units/Desc/PRU_Freikorps_Veteran_Hussars",
-      "Translation": "<i>軽騎兵、フリイコール精鋭軽騎兵</i>",
+      "Translation": "<i>軽騎兵、フライコール精鋭軽騎兵</i>",
       "VariableCount": 0
     },
     {
       "Key": "Units/Desc/PRU_Freikorps_Dragoons",
-      "Translation": "<i>軽騎兵、フリイコール竜騎兵</i>",
+      "Translation": "<i>軽騎兵、フライコール竜騎兵</i>",
       "VariableCount": 0
     },
     {
       "Key": "Units/Desc/PRU_Freikorps_Reserve_Artillery",
-      "Translation": "<i>砲兵、フリイコール大隊砲</i>",
+      "Translation": "<i>砲兵、フライコール大隊砲</i>",
       "VariableCount": 0
     },
     {
       "Key": "Units/Desc/PRU_Freikorps_Field_Artillery",
-      "Translation": "<i>砲兵、フリイコール野戦砲</i>",
+      "Translation": "<i>砲兵、フライコール野戦砲</i>",
       "VariableCount": 0
     },
     {

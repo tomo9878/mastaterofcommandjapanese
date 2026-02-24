@@ -15028,7 +15028,7 @@
     },
     {
       "Key": "Ability/OpenOrder/Description",
-      "Translation": "散兵戦（スキミッシュ）を有効にします。\n射撃ダメージ <color=#009300>+{0}%</color>\n移動速度 <color=#009300>+{1}%</color>\n被射撃ダメージ <color=#009300>{2}%</color>\n被突撃ダメージ <color=#CB2225>+{3}%</color>",
+      "Translation": "散兵戦（スカーミッシュ）を有効にします。\n射撃ダメージ <color=#009300>+{0}%</color>\n移動速度 <color=#009300>+{1}%</color>\n被射撃ダメージ <color=#009300>{2}%</color>\n被突撃ダメージ <color=#CB2225>+{3}%</color>",
       "VariableCount": 4
     },
     {

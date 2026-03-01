@@ -1,5 +1,5 @@
 {
-  "LanguageName": "Chinese",
+  "LanguageName": "Japanese",
   "Fonts": [
     {
       "Key": "NORMAL",
@@ -10,7 +10,7 @@
       "AssetId": "SpecializedThick"
     }
   ],
-"Terms": [
+  "Terms": [
     {
       "Key": "Battle/Tooltips/Bracing",
       "Translation": "踏ん張り",
@@ -2661,7 +2661,7 @@
       "Translation": "義勇軍新兵",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Units/Name/PRU_Freikorps_Infantry",
       "Translation": "フライコール戦列歩兵",
       "VariableCount": 0
@@ -2966,7 +2966,7 @@
       "Translation": "<i>重騎兵、ペンネヴェール</i>",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Units/Name/AUS_German_Recruit",
       "Translation": "直轄領徴集兵（クラウンランド）",
       "VariableCount": 0
@@ -3281,7 +3281,7 @@
       "Translation": "<i>重歩兵、ハンガリー精鋭擲弾兵</i>",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Units/Desc/AUS_Hussars",
       "Translation": "<i>軽騎兵、ハンガリー・ハッサー</i>",
       "VariableCount": 0
@@ -3596,7 +3596,7 @@
       "Translation": "<i>新兵、農奴</i>",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Units/Desc/RUS_Reserve_Musketeers",
       "Translation": "<i>新兵歩兵、予備ムスケティア</i>",
       "VariableCount": 0
@@ -3921,7 +3921,7 @@
       "Translation": "ハノーファー戦列歩兵",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Units/Name/GBR_Hanoverian_Veteran_Foot",
       "Translation": "ハノーファー精鋭戦列歩兵",
       "VariableCount": 0
@@ -4231,7 +4231,7 @@
       "Translation": "フランス擲弾兵",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Units/Name/FRA_French_Veteran_Grenadiers",
       "Translation": "フランス精鋭擲弾兵",
       "VariableCount": 0
@@ -4541,7 +4541,7 @@
       "Translation": "<i>軽騎兵、義勇ハッサー</i>",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Units/Desc/FRA_Volontaires_Dragoons",
       "Translation": "<i>重騎兵、義勇竜騎兵（ヴォロンテール・ドラグーン）</i>",
       "VariableCount": 0
@@ -4866,7 +4866,7 @@
       "Translation": "<i>重歩兵、ヴュルテンベルク擲弾兵</i>",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Units/Desc/HRE_Palatinate_Musketeers",
       "Translation": "<i>戦列歩兵、プファルツ・ムスケティア</i>",
       "VariableCount": 0
@@ -5201,7 +5201,7 @@
       "Translation": "ぶどう弾（良質）",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Items/GRAPESHOT/Excellent/Name",
       "Translation": "ぶどう弾（最高品質）",
       "VariableCount": 0
@@ -5541,7 +5541,7 @@
       "Translation": "連隊幕僚：技師（良質）",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Items/REG_STAFF_CARTOGRAPHER/Excellent/Name",
       "Translation": "連隊幕僚：技師（最高品質）",
       "VariableCount": 0
@@ -5891,7 +5891,7 @@
       "Translation": "<i>アイテム、蹄鉄</i>\n安定した歩取りのために成形された、均衡の取れた鉄製の装具。騎兵の持久力を高め、戦場を駆ける速度を向上させる。",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Items/IMPROVED_LIGHT_SADDLES/Basic/Name",
       "Translation": "軽装の鞍（基本）",
       "VariableCount": 0
@@ -6251,7 +6251,7 @@
       "Translation": "<i>アイテム、配給品</i>\n栄養価が高く腹持ちの良い、兵士の慰め。気力を奮い立たせ、長い行軍に耐えるスタミナを貸し与える。",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Items/COFFEE_RATIONS/Basic/Name",
       "Translation": "コーヒーの配給（基本）",
       "VariableCount": 0
@@ -6621,7 +6621,7 @@
       "Translation": "<i>アイテム、軍事論</i>\n士気、編制、および改革に焦点を当てたテキスト。軍を極限状態でも揺るぎなく保つ洞察として、現在もプロイセンの士官学校で学ばれている。",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Items/MT_PUYSEGUR/Basic/Name",
       "Translation": "軍事論：ピュイセギュール（基本）",
       "VariableCount": 0
@@ -6932,7 +6932,7 @@
       "VariableCount": 0
     },
     {
-      "Key":"Items/IRON_SKULL_CAPS/Excellent/Name",
+      "Key": "Items/IRON_SKULL_CAPS/Excellent/Name",
       "Translation": "鉄製頭蓋兜（最高品質）",
       "VariableCount": 0
     },
@@ -7051,7 +7051,7 @@
       "Translation": "ヨンショーピング・カービン銃（基本）",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Weapon/DELFT_MUSKET/Name",
       "Translation": "デルフト・マスケット銃（基本）",
       "VariableCount": 0
@@ -7471,7 +7471,7 @@
       "Translation": "胸甲騎兵の刀剣（良質）",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Weapon/REINFORCED_HEAVY_SABRES/Name",
       "Translation": "重サーベル（良質）",
       "VariableCount": 0
@@ -7886,7 +7886,7 @@
       "Translation": "移動速度 <color=#009300>+{0}%</color>\n\n将校の戦死率 <color=#CB2225>+{1}%</color>",
       "VariableCount": 2
     },
-{
+    {
       "Key": "Skill/RestorativeBreaksName",
       "Translation": "不屈の再編",
       "VariableCount": 0
@@ -7916,7 +7916,7 @@
       "Translation": "<color=#009300>補給部隊</color>を追加する",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Skill/DrillMasteryName",
       "Translation": "厳格な規律",
       "VariableCount": 0
@@ -8331,7 +8331,7 @@
       "Translation": "戦闘効率 <color=#009300>+{0}%</color>\n将校の指揮範囲 <color=#CB2225>{1}%</color>",
       "VariableCount": 2
     },
-  {
+    {
       "Key": "Skill/GroundHuggerDescLong",
       "Translation": "戦闘効率 <color=#009300>+{0}%</color>\n\n将校の指揮範囲 <color=#CB2225>{1}%</color>",
       "VariableCount": 2
@@ -8641,7 +8641,7 @@
       "Translation": "将校の戦死率 <color=#CB2225>+{0}%</color>",
       "VariableCount": 1
     },
-  {
+    {
       "Key": "Strategem/MultiFrontConflictHeader",
       "Translation": "多方面作戦の展開",
       "VariableCount": 0
@@ -9076,7 +9076,7 @@
       "Translation": "略奪者",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Strategem/PlundererBody",
       "Translation": "略奪および勝利による戦利品獲得量 <color=#009300>+{0}</color>",
       "VariableCount": 1
@@ -9481,7 +9481,7 @@
       "Translation": "連隊のアイテムスロット価格 <color=#009300>{0}%</color>\n拠点での予備兵雇用コスト <color=#CB2225>+{1}%</color>",
       "VariableCount": 2
     },
-  {
+    {
       "Key": "Stratagem/AnnusMirabilisHeader",
       "Translation": "驚異の年（アヌス・ミラビリス）",
       "VariableCount": 0
@@ -10131,7 +10131,7 @@
       "Translation": "我々の在庫から築城資材を供出する。",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Encounter/DEFENSES_NEEDED/Choice_2/ButtonTooltip",
       "Translation": "• 在庫から築城資材を <color=#CB2225>-{0}</color> 提供\n• <color=#009300>+{1}</color> 個の民生品アイテムを獲得\n• <color=#009300>+{2}</color> ターラーを獲得\n\n<i>必要：在庫に築城資材アイテムが {0} 個</i>",
       "VariableCount": 3
@@ -10751,7 +10751,7 @@
       "Translation": "閣下、\n敵から奪還したばかりの土地に設営された後方露営地に到着しました。ここには非正規兵、地元住民、補助部隊、そして様々な国境地域の男たちが、我々の軍に加わることを願って集まっています。\n\n誰を呼び集めるかによって、義勇軍（フリーコール）、ハンガリー志願兵、コサック、あるいはこの戦域に適したその他の徴集兵を編成することができます。彼らは我々の受け入れを待っています。",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Encounter/AUXILIARY_CAMP/Choice_1/ButtonText",
       "Translation": "フリーコール（義勇軍）だ！ あの「青い悪魔」どもを雇おう。",
       "VariableCount": 0
@@ -11081,7 +11081,7 @@
       "Translation": "• <color=#CB2225>高い</color>確率で <color=#CB2225>-{0}%</color> の兵員が消耗（脱走）",
       "VariableCount": 1
     },
-  {
+    {
       "Key": "Encounter/DISEASED_VILLAGE/Choice_Special/ButtonText",
       "Translation": "接触した者を治療し、前進を続けろ。\n（教義 <color=#00E5E1>{0}</color> または <color=#00E5E1>{1}</color> を所持）",
       "VariableCount": 2
@@ -11386,7 +11386,7 @@
       "Translation": "バグパイプの訓練をさせよう。",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Encounter/DRUMMER_BOY/Choice_2/ButtonTooltip",
       "Translation": "• 精鋭バグパイプ奏者を <color=#009300>+{0}</color> 個獲得",
       "VariableCount": 1
@@ -11791,7 +11791,7 @@
       "Translation": "• 予備兵を <color=#009300>+{0}</color> 人回復させる",
       "VariableCount": 1
     },
-  {
+    {
       "Key": "Encounter/FRESH_BATTLEGROUND/Choice_Special/ButtonText",
       "Translation": "兵士たちに壊れた武器を修理させろ。\n（教義 <color=#00E5E1>{0}</color> または <color=#00E5E1>{1}</color> を所持）",
       "VariableCount": 2
@@ -12271,7 +12271,7 @@
       "Translation": "閣下、\n目の前の要塞はその強固な守りと立地ゆえ、いかなる強襲を試みても兵員と物資を無益に消費するだけに終わるでしょう。敵の指揮官も、これ以上の固執は無意味であると悟ったのか、捕虜交換の提案を送ってきました。彼は我々の予備兵数名と引き換えに、捕らえていた我が方の歩兵一個連隊を返還すると言っています。さらに、より多くの人員を差し出すのであれば、高級将校も解放する用意があるとのことです。\n\nこれらの条件を受け入れるか否か、閣下のご決断を仰ぎます。",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Encounter/PRISONER_EXCHANGE/Choice_1/ButtonText",
       "Translation": "歩兵連隊との交換に応じる。",
       "VariableCount": 0
@@ -12756,7 +12756,7 @@
       "Translation": "もっと慎重になるべきだった。",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Encounter/Events/THEDUEL_WOUNDED/Choice_1/Tooltip",
       "Translation": "• 予備の将校が <color=#CB2225>-{0}</color> の経験値を失う",
       "VariableCount": 1
@@ -13101,7 +13101,7 @@
       "Translation": "城壁、健在",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Encounter/Events/WALLS_STAND/Desc",
       "Translation": "閣下、\n石造りの壁は依然として持ちこたえています。我が方の砲弾は命中していますが、隊列を組んだ兵が進めるほどの隙間はまだできておらず、胸壁からの反撃も激しいままです。\n\nより脆弱な角度へ砲を据え直すか、あるいは現状のまま砲撃を続け、壁が緩むまで突入部隊を温存するか決める必要があります。",
       "VariableCount": 0
@@ -13476,7 +13476,7 @@
       "Translation": "名門士官学校",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Region/RegionCondition_Officers_Positive_Hint",
       "Translation": "<color=#009300>将校の雇用枠 +2、コスト -25%</color>",
       "VariableCount": 0
@@ -13536,7 +13536,7 @@
       "Translation": "{0} への侵攻",
       "VariableCount": 1
     },
-  {
+    {
       "Key": "MissionObjective/Invade/Desc1",
       "Translation": "UNUSED",
       "VariableCount": 0
@@ -13721,7 +13721,7 @@
       "Translation": "複雑さ: <color=#009300>標準</color>\n　18世紀半ば、プロイセンは独自の「カントン制度」を通じて徴集兵を募っていた。現代の予備兵のように、彼らは軍に徴募されて基礎教練を受けた後、平時には村へ帰される。これによりプロイセンは紛争時に訓練済みの人的資源を大量に維持できた。動員されたカントン兵はプロイセン軍の中で最高峰の精鋭ではないが、忠実な歩兵として戦列を支える。",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Composition/Freikorps/Title",
       "Translation": "フリーコール（独立義勇軍）",
       "VariableCount": 0
@@ -13921,7 +13921,7 @@
       "Translation": "強行軍により軍の移動速度が上昇する。\n• <color=#009300>キャンペーン移動速度 +{0}%</color>\n• <color=#CB2225>糧食消費量 +{1}%</color>\n• <color=#CB2225>キャンペーン視界 {2}%</color>\n• <color=#CB2225>部隊補充率 {3}%</color>\n\n<i>有効化のホットキー： {4}</i>",
       "VariableCount": 5
     },
-  {
+    {
       "Key": "Stance/Forage/Header",
       "Translation": "徴発（フォーレージ）",
       "VariableCount": 0
@@ -14026,7 +14026,7 @@
       "Translation": "キャンペーンの開始",
       "VariableCount": 0
     },
-{
+    {
       "Key": "Tutorial/NewCampaign/Msg1",
       "Translation": "Master of Commandへようこそ！ キャンペーンを始める前に、まずは「国家」を選択する必要があります。各国家にはそれぞれ固有の長所と短所があります。",
       "VariableCount": 0
@@ -14126,7 +14126,7 @@
       "Translation": "マップ内はWASDキー、またはマウスの中ボタンのドラッグで移動できます。\n\nマウスの右ボタンで軍の移動、敵軍への攻撃、マップ上の町やイベント地点への移動が可能です。",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Tutorial/RegionMap/Msg3",
       "Translation": "地形は重要です。街道は移動速度を上げますが、森や川は進軍を遅らせます。\n\n山岳地帯では物資の消費が早まりますが、視界が広がり、近くの集落や敵軍を発見しやすくなります。",
       "VariableCount": 0
@@ -14246,7 +14246,7 @@
       "Translation": "戦闘中、ユニットは死傷者を出したり弾薬を失ったりします。兵士は自動的には補充されないため、あなた自身で再訓練を行う必要があります。緑色のヘルスバーを右にドラッグして連隊を補充しましょう。これには予備兵を消費します。\n\nヘルスバーの下にある黄色の弾薬バーも、同様の操作で補充可能です。",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Tutorial/CampViewAfterPurchasingUnit/Header",
       "Translation": "新規ユニットの合流",
       "VariableCount": 0
@@ -14411,7 +14411,7 @@
       "Translation": "戦闘が始まる前に、ユニットの態勢を設定しておきましょう。",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Tutorial/BattleIntro/Msg3",
       "Translation": "左クリックを押したままドラッグすることで、範囲選択が可能です。",
       "VariableCount": 0
@@ -14576,7 +14576,7 @@
       "Translation": "「射撃禁止」を切り替えると自動ターゲットを無効にします。連隊は直接攻撃の指示を与えない限り、発砲しません。\n\n有効化のホットキー：T",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Tutorial/LockToMelee/Header",
       "Translation": "白兵戦固定",
       "VariableCount": 0
@@ -14686,7 +14686,7 @@
       "Translation": "連隊のステータスを比較して、騎兵、歩兵、または砲兵を徴募しましょう。町によっては、価格を上下させる補正（モディファイア）がかかっている場合があります。",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Tutorial/PurchaseOfficer/Header",
       "Translation": "将校の雇用",
       "VariableCount": 0
@@ -14796,7 +14796,7 @@
       "Translation": "連隊を移動させた後、<i>左Tabキー</i>を長押しすることで、移動後の最終的な布陣をプレビューできます。",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Tutorial/CampaignModifiers/Header",
       "Translation": "ゲーム難易度",
       "VariableCount": 0
@@ -14916,7 +14916,7 @@
       "Translation": "土塁",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Ability/Earthworks/Description",
       "Translation": "未使用",
       "VariableCount": 0
@@ -15101,7 +15101,7 @@
       "Translation": "自由射撃",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Ability/FreeFire/Description",
       "Translation": "一斉射撃（同期射撃）を切り替えます。オフにすると、各兵士が装填を終え次第発砲します。継続的なダメージは増えますが、敵に与える士気への衝撃は減少します。\n\n<i>有効化のホットキー：Y</i>",
       "VariableCount": 0
@@ -15226,7 +15226,7 @@
       "Translation": "退出不可",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Campaign/Popups/CantExitCampNoRegiment/Message",
       "Translation": "少なくとも一つの旅団に最低一つの連隊が配属されている必要があります。",
       "VariableCount": 0
@@ -15346,7 +15346,7 @@
       "Translation": "カスタマイズした軍服を維持",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "GenericPopups/UpgradeKeepUniform/Message",
       "Translation": "カスタマイズした軍服の色を維持しますか？",
       "VariableCount": 0
@@ -15471,7 +15471,7 @@
       "Translation": "突撃能力",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Generic/Tooltips/Charge/Description",
       "Translation": "突撃能力は、最初の突撃における連隊のパフォーマンスを決定します。",
       "VariableCount": 0
@@ -15586,7 +15586,7 @@
       "Translation": "騎兵",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Generic/Tooltips/CampFilter/Artillery/Header",
       "Translation": "砲兵",
       "VariableCount": 0
@@ -15781,7 +15781,7 @@
       "Translation": "強制徴募",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Campaign/Tooltips/CampaignProgress/Header",
       "Translation": "キャンペーン進行状況",
       "VariableCount": 0
@@ -15991,7 +15991,7 @@
       "Translation": "敵司令部が現在追撃中です！",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Terminology/MoraleState/CONFIDENT",
       "Translation": "<color=#00E5E1>意気軒昂</color>",
       "VariableCount": 0
@@ -16241,7 +16241,7 @@
       "Translation": "「悲しみは一世紀に及び、死は一瞬である。」\n<i>— プロイセン王、フリードリヒ大王</i>",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Quotes/Q2",
       "Translation": "「貴公らが戦いたいかどうかなど、私は問わぬ。断じて問わぬ！ 私は諸君に、戦うことを命じるのだ！」\n<i>— プロイセン王、フリードリヒ大王</i>",
       "VariableCount": 0
@@ -16406,7 +16406,7 @@
       "Translation": "「小隊ごとに、敵の腹を狙って射撃を開始せよ。」\n<i>— ヴィリム・ヴィリモヴィチ・フェルモル、ロシア軍大将</i>",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Quotes/Q35",
       "Translation": "「神の加護とロシアの勇気によって、敵を打ち負かし追い散らすその時まで、銃剣をもって戦い続けよ。」\n<i>— ヴィリム・ヴィリモヴィチ・フェルモル、ロシア軍大将</i>",
       "VariableCount": 0
@@ -16616,7 +16616,7 @@
       "Translation": "ホッホキルヒの戦い（1758）において、オーストリアのフランツ・モーリッツ・フォン・ラッシ将軍は、多方向から縦隊で攻撃を仕掛けるという斬新な戦術を先駆的に導入し、プロイセン軍の不意を突いた。",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Quotes/Q77",
       "Translation": "フリードリヒ大王の弟、プロイセン王子ハインリヒは、この戦争を通じて一度も敗北を喫しなかった。1762年のフライベルクにおける彼の最後の勝利が、ザクセンでの戦いに終止符を打った。",
       "VariableCount": 0
@@ -16886,7 +16886,7 @@
       "Translation": "「露営軍」を撃破すれば強力な教義が手に入る。非常に困難な戦いになるが、見返りは大きい。",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Quotes/Q131",
       "Translation": "キャンペーン画面右上の目標にマウスを合わせると、達成報酬を確認できます。",
       "VariableCount": 0
@@ -16986,7 +16986,7 @@
       "Translation": "戦闘後は必ず軍を補充しましょう。失った兵員の補填と弾薬の補充は、次なる戦いに備えるための絶対条件です。",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "Frontend/RiseOfFredrick",
       "Translation": "フリードリヒの台頭",
       "VariableCount": 0
@@ -17186,7 +17186,7 @@
       "Translation": "モルヴィッツで戦ったのは父上の軍であった。\n<color=#599FE0>（プロイセン王フリードリヒ2世）</color>",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "CutsceneSubtitles/ROF2/Sub14",
       "Translation": "コトジッツは私の勝利となる。\n<color=#599FE0>（プロイセン王フリードリヒ2世）</color>",
       "VariableCount": 0
@@ -17247,7 +17247,7 @@
       "VariableCount": 0
     },
     {
-      "Key":"CutsceneSubtitles/ROF3/Sub10",
+      "Key": "CutsceneSubtitles/ROF3/Sub10",
       "Translation": "あの女帝が、シレジアを失ったままで許すはずがないのだ。\n<color=#599FE0>（プロイセン王フリードリヒ2世）</color>",
       "VariableCount": 0
     },
@@ -17296,7 +17296,7 @@
       "Translation": "我が方の間諜もすでに敵陣へ潜入しており、\n<color=#009300>（アンハルト＝デッサウ公子モーリッツ）</color>",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "CutsceneSubtitles/ROF3/Sub20",
       "Translation": "敵に偽情報を流し続けております。\n<color=#009300>（アンハルト＝デッサウ公子モーリッツ）</color>",
       "VariableCount": 0
@@ -17381,7 +17381,7 @@
       "Translation": "陛下、申し上げます！ 陛下！\n<color=#E2A200>（プロイセン軍の伝令兵）</color>",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "CutsceneSubtitles/ROF4/Sub7",
       "Translation": "オーストリア軍が周囲の高地を占拠しました……\n<color=#E2A200>（プロイセン軍の伝令兵）</color>",
       "VariableCount": 0
@@ -17556,7 +17556,7 @@
       "Translation": "ゲームを複数回クリアしたことのある方向け",
       "VariableCount": 0
     },
-  {
+    {
       "Key": "DifficultyPresets/VeryHard/ShortDesc",
       "Translation": "すべての指揮を極めたエキスパートプレイヤー向け",
       "VariableCount": 0
@@ -17590,6 +17590,461 @@
       "Key": "KnownIssues/Message",
       "Translation": "Master of Command デモ版へようこそ！ご質問があれば、ぜひ公式Discordサーバーへご参加ください。\n\nデモ版の内容：\n• プロイセン軍「カントニスト徴募兵（Cantonist Recruits）」編成\n• キャンペーンモード Act 1 終了までプレイ可能\n• プレイ時間制限およびリプレイ回数制限なし",
       "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/OLD_MONASTERY/Title",
+      "Translation": "古い修道院",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/OLD_MONASTERY/Desc",
+      "Translation": "閣下、\n我々の縦隊は街道から少し離れた場所にある古い修道院に行き当たりました。そこには小さな兄弟会が残り、祈りを捧げ、わずかな持ち物を守って暮らしています。庭園はまばらで、中庭の井戸はこの厳しい情勢の中で荒れ果ててしまっています。\n\n院長は我々を丁重に迎え入れました。分かち合えるものはほとんどありませんが、修道士たちは少額の寄付と引き換えに、手放してもよい聖遺物を差し出してくれました。また、彼らの中には野戦の生活に向いている者が一人いるようで、従軍牧師として軍に同行するよう説得できるかもしれません。\n\nここは静かな場所であり、今の時代には稀有な場所です。",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/OLD_MONASTERY/Choice_1/ButtonText",
+      "Translation": "パンとワインを分かち合う。",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/OLD_MONASTERY/Choice_1/ButtonTooltip",
+      "Translation": "• 糧食を <color=#009300>+{0}</color> 獲得",
+      "VariableCount": 1
+    },
+    {
+      "Key": "Encounter/OLD_MONASTERY/Choice_2/ButtonText",
+      "Translation": "寄付をする。",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/OLD_MONASTERY/Choice_2/ButtonTooltip",
+      "Translation": "• ターレルを <color=#CB2225>{0}</color> 寄付\n• 糧食を <color=#009300>+{1}</color> 獲得\n• 優れた宗教アイテムを <color=#009300>+{2}</color> 獲得\n\n<i>必要数：{0} ターレル</i>",
+      "VariableCount": 3
+    },
+    {
+      "Key": "Encounter/OLD_MONASTERY/Choice_3/ButtonText",
+      "Translation": "従軍牧師を頼む。",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/OLD_MONASTERY/Choice_3/ButtonTooltip",
+      "Translation": "• 優れた従軍牧師を <color=#009300>+{0}</color> 獲得",
+      "VariableCount": 1
+    },
+    {
+      "Key": "Encounter/OLD_MONASTERY/Choice_Special/ButtonText",
+      "Translation": "修道院の井戸の修復を助ける。\n（ドクトリン <color=#00E5E1>{0}</color> または <color=#00E5E1>{1}</color> が必要）",
+      "VariableCount": 2
+    },
+    {
+      "Key": "Encounter/OLD_MONASTERY/Choice_Special/ButtonTooltip",
+      "Translation": "• 優れた従軍牧師を <color=#009300>+{0}</color> 獲得\n• 糧食を <color=#009300>+{1}</color> 獲得\n• 優れた宗教アイテムを <color=#009300>+{2}</color> 獲得",
+      "VariableCount": 3
+    },
+    {
+      "Key": "Encounter/LIVESTOCK_TRADER/Title",
+      "Translation": "家畜商",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/LIVESTOCK_TRADER/Desc",
+      "Translation": "閣下、\n街道で、軽い護衛に守られながら牛や荷獣を追っている家畜商の隊列に遭遇しました。彼らは次の市場町へ向かっていますが、戦地に近づきすぎたためか、不安げな様子です。\n\n商人たちは、こちらに売るための動物があれば取引に応じると言っています。また、街道の最も危険な区間を抜ける間、我々の兵数名に護衛を頼めないかと打診してきました。適切な保護があれば、速度を上げて移動でき、その見返りに現物で支払う用意があるとのことです。",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/LIVESTOCK_TRADER/Choice_1/ButtonText",
+      "Translation": "牛を数頭購入する。",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/LIVESTOCK_TRADER/Choice_1/ButtonTooltip",
+      "Translation": "• ターレルを <color=#CB2225>-{0}</color> 消費\n• 糧食を <color=#009300>+{1}</color> 獲得\n\n<i>必要数：{0} ターレル</i>",
+      "VariableCount": 2
+    },
+    {
+      "Key": "Encounter/LIVESTOCK_TRADER/Choice_2/ButtonText",
+      "Translation": "牛を数頭売却する。",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/LIVESTOCK_TRADER/Choice_2/ButtonTooltip",
+      "Translation": "• 糧食を <color=#CB2225>-{0}</color> 消費\n• ターレルを <color=#009300>+{1}</color> 獲得\n\n<i>必要数：{0} 糧食</i>",
+      "VariableCount": 2
+    },
+    {
+      "Key": "Encounter/LIVESTOCK_TRADER/Choice_3/ButtonText",
+      "Translation": "隊列に護衛を付ける。",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/LIVESTOCK_TRADER/Choice_3/ButtonTooltip",
+      "Translation": "• 予備兵を <color=#CB2225>-{0}</color> 提供\n• 糧食を <color=#009300>+{1}</color> 獲得\n• ターレルを <color=#009300>+{2}</color> 獲得\n\n<i>必要数：{0} 予備兵</i>",
+      "VariableCount": 3
+    },
+    {
+      "Key": "Encounter/LIVESTOCK_TRADER/Choice_Special/ButtonText",
+      "Translation": "商人から貢納品を徴収する。\n（ドクトリン <color=#00E5E1>{0}</color> または <color=#00E5E1>{1}</color> が必要）",
+      "VariableCount": 2
+    },
+    {
+      "Key": "Encounter/LIVESTOCK_TRADER/Choice_Special/ButtonTooltip",
+      "Translation": "• 糧食を <color=#009300>+{0}</color> 獲得\n• ターレルを <color=#009300>+{1}</color> 獲得",
+      "VariableCount": 2
+    },
+    {
+      "Key": "Encounter/ALLIED_MUTINY/Title",
+      "Translation": "同盟軍の反乱",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/ALLIED_MUTINY/Desc",
+      "Translation": "閣下、\n同盟軍の補給拠点で、守備隊が公然と紛争を起こしているのを発見しました。しばらく給料が支払われていなかった兵士たちが将校に反旗を翻し、現在、中庭で二手に分かれて互いにマスケット銃を向け合い、怒号を飛ばしています。一触即発の状態です。\n\nまだ発砲はされていませんが、事態は極めて深刻です。わずかな火種があれば、誰にも止められぬまま反乱は流血の惨事へと変わるでしょう。\n\n直ちに介入すれば、秩序を取り戻す時間がまだあるかもしれません。傍観していれば、この争いは自然に収まるかもしれませんが、無傷では済まないでしょう。",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/ALLIED_MUTINY/Choice_1/ButtonText",
+      "Translation": "兵士たちに武器を収めるよう説得する。",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/ALLIED_MUTINY/Choice_1/ButtonTooltip",
+      "Translation": "• 反乱を鎮圧できる可能性：<color=#CB2225>低い</color>",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/ALLIED_MUTINY/Choice_2/ButtonText",
+      "Translation": "警告射撃を行う！",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/ALLIED_MUTINY/Choice_2/ButtonTooltip",
+      "Translation": "• 反乱を鎮圧できる可能性：<color=#E2A200>中程度</color>\n• 弾薬を <color=#CB2225>-{0}</color> 消費\n\n<i>必要数：{0} 弾薬</i>",
+      "VariableCount": 1
+    },
+    {
+      "Key": "Encounter/ALLIED_MUTINY/Choice_3/ButtonText",
+      "Translation": "反乱兵に未払いの賃金を支払う。",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/ALLIED_MUTINY/Choice_3/ButtonTooltip",
+      "Translation": "• 反乱を鎮圧できる可能性：<color=#009300>高い</color>\n• ターレルを <color=#CB2225>-{0}</color> 支払う\n\n<i>必要数：{0} ターレル</i>",
+      "VariableCount": 1
+    },
+    {
+      "Key": "Encounter/ALLIED_MUTINY/Choice_Special/ButtonText",
+      "Translation": "圧倒的な武威を示す！\n（ドクトリン <color=#00E5E1>{0}</color> または <color=#00E5E1>{1}</color> が必要）",
+      "VariableCount": 2
+    },
+    {
+      "Key": "Encounter/ALLIED_MUTINY/Choice_Special/ButtonTooltip",
+      "Translation": "• 反乱を鎮圧できる可能性：<color=#009300>確実</color>",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/ALLIED_MUTINY/Exit/ButtonText",
+      "Translation": "関わらないのが一番だ……",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/ALLIED_MUTINY/Exit/ButtonTooltip",
+      "Translation": "• 消耗（脱走）が <color=#CB2225>-{0}%</color> 発生",
+      "VariableCount": 1
+    },
+    {
+      "Key": "Encounter/MUTINY_QUELLED/Title",
+      "Translation": "反乱鎮圧",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/MUTINY_QUELLED/Desc",
+      "Translation": "閣下、\n毅然とした態度と幸運により、流血の事態に至る前に争いを止めることができました。兵士たちは一人また一人とマスケット銃を下ろし、中庭には依然として怒りが渦巻いているものの、怒号は重苦しい沈黙へと変わりました。\n\n将校たちは名目上は指揮権を取り戻しましたが、信頼関係はひどく損なわれています。反乱兵たちは現在監視下にあり、補給拠点は彼らの処遇に関するあなたの決定を待っています。",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/MUTINY_QUELLED/Choice_1/ButtonText",
+      "Translation": "反乱兵を処罰し、軍に徴募する。",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/MUTINY_QUELLED/Choice_1/ButtonTooltip",
+      "Translation": "• 予備兵を <color=#009300>+{0}</color> 徴募",
+      "VariableCount": 1
+    },
+    {
+      "Key": "Encounter/MUTINY_QUELLED/Choice_2/ButtonText",
+      "Translation": "武装を解除し、解散させる。",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/MUTINY_QUELLED/Choice_2/ButtonTooltip",
+      "Translation": "• 弾薬を <color=#009300>+{0}</color> 徴発",
+      "VariableCount": 1
+    },
+    {
+      "Key": "Encounter/MUTINY_ESCALATES/Title",
+      "Translation": "反乱激化",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/MUTINY_ESCALATES/Desc",
+      "Translation": "閣下、\n争いを鎮めることはできませんでした。一発の銃声が響き、続いてもう一発。瞬く間に中庭は混沌に陥りました。共に戦ってきたはずの者たちが、今や馬車や物資の間で至近距離から撃ち合っています。\n\n戦闘は終わりましたが、多くの命が失われました。生存者は震え、将校たちは激昂し、補給拠点は混乱したまま放置されています。",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/MUTINY_ESCALATES/Choice_1/ButtonText",
+      "Translation": "なんという惨劇だ！",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/MUTINY_ESCALATES/Choice_1/ButtonTooltip",
+      "Translation": "• 消耗（戦闘）が <color=#CB2225>-{0}%</color> 発生",
+      "VariableCount": 1
+    },
+    {
+      "Key": "Encounter/MILITARY_THEORIST/Title",
+      "Translation": "軍事理論家",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/MILITARY_THEORIST/Desc",
+      "Translation": "閣下、\n街道沿いのキャンプで、大量の書類や注釈付きの教練本を携えて旅をしている博識な人物に出会いました。彼はただの文筆家ではなく、かなりの評判を持つ軍事理論家です。古い論文を改訂し、機動、規律、野戦での部隊運用に関する独自の改良案をまとめています。\n\n彼は自分の著作の写しを有料で提供すると言っています。一見したところ内容は確かであり、学ぶ意欲のある将校にとっては有用なものとなるでしょう。また、彼は我々が携行しているマニュアルにも強い関心を示しました。我々の持つ論文を一編譲れば、彼の改訂版と比較・検討する特権への対価として、惜しみない支払いをする用意があるとのことです。",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/MILITARY_THEORIST/Choice_1/ButtonText",
+      "Translation": "理論家の著作を購入する。",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/MILITARY_THEORIST/Choice_1/ButtonTooltip",
+      "Translation": "• ターレルを <color=#CB2225>-{0}</color> 消費\n• 優れた論文を <color=#009300>+{1}</color> 獲得\n\n<i>必要数：{0} ターレル</i>",
+      "VariableCount": 2
+    },
+    {
+      "Key": "Encounter/MILITARY_THEORIST/Choice_2/ButtonText",
+      "Translation": "研究用にこちらの論文を売却する。",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Encounter/MILITARY_THEORIST/Choice_2/ButtonTooltip",
+      "Translation": "• 軍事論文を <color=#CB2225>-{0}</color> 売却\n• ターレルを <color=#009300>+{1}</color> 獲得\n\n<i>必要数：{0} 論文</i>",
+      "VariableCount": 2
+    },
+    {
+      "Key": "Encounter/MILITARY_THEORIST/Choice_Special/ButtonText",
+      "Translation": "軍事情報を交換する。\n（ドクトリン <color=#00E5E1>{0}</color> または <color=#00E5E1>{1}</color> が必要）",
+      "VariableCount": 2
+    },
+    {
+      "Key": "Encounter/MILITARY_THEORIST/Choice_Special/ButtonTooltip",
+      "Translation": "• 優れた論文を <color=#009300>+{0}</color> 獲得",
+      "VariableCount": 1
+    },
+    {
+      "Key": "Tutorial/HallOfFame/Header",
+      "Translation": "殿堂",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Tutorial/HallOfFame/Msg1",
+      "Translation": "キャンペーンを完了すると、連隊や将校を殿堂に加えることができます。",
+      "VariableCount": 0
+    },
+    {
+      "Key": "General/HallOfFame",
+      "Translation": "殿堂",
+      "VariableCount": 0
+    },
+    {
+      "Key": "View/CampaignFinalStats/DivisionHistory",
+      "Translation": "師団履歴",
+      "VariableCount": 0
+    },
+    {
+      "Key": "View/CampaignFinalStats/MostValuableRegiments",
+      "Translation": "最優秀連隊",
+      "VariableCount": 0
+    },
+    {
+      "Key": "View/CampaignFinalStats/RegimentalStats/Kills",
+      "Translation": "殺傷数",
+      "VariableCount": 0
+    },
+    {
+      "Key": "View/CampaignFinalStats/RegimentalStats/Losses",
+      "Translation": "損失数",
+      "VariableCount": 0
+    },
+    {
+      "Key": "View/CampaignFinalStats/RegimentalStats/BattlesWon",
+      "Translation": "勝利数",
+      "VariableCount": 0
+    },
+    {
+      "Key": "View/CampaignFinalStats/RegimentalStats/BattlesLost",
+      "Translation": "敗北数",
+      "VariableCount": 0
+    },
+    {
+      "Key": "View/CampaignFinalStats/Save/RegimentAddButton",
+      "Translation": "連隊を殿堂に追加する",
+      "VariableCount": 0
+    },
+    {
+      "Key": "View/CampaignFinalStats/Save/OfficerAddButton",
+      "Translation": "将校を殿堂に追加する",
+      "VariableCount": 0
+    },
+    {
+      "Key": "View/CampaignFinalStats/Save/RegimentDeleteButton",
+      "Translation": "連隊を殿堂から削除する",
+      "VariableCount": 0
+    },
+    {
+      "Key": "View/CampaignFinalStats/Save/OfficerDeleteButton",
+      "Translation": "将校を殿堂から削除する",
+      "VariableCount": 0
+    },
+    {
+      "Key": "View/CampaignFinalStats/Save/RegimentAddedHeader",
+      "Translation": "連隊追加完了",
+      "VariableCount": 0
+    },
+    {
+      "Key": "View/CampaignFinalStats/Save/RegimentAddedBody",
+      "Translation": "連隊が殿堂に追加されました。",
+      "VariableCount": 0
+    },
+    {
+      "Key": "View/CampaignFinalStats/Save/OfficerAddedHeader",
+      "Translation": "将校追加完了",
+      "VariableCount": 0
+    },
+    {
+      "Key": "View/CampaignFinalStats/Save/OfficerAddedBody",
+      "Translation": "将校が殿堂に追加されました。",
+      "VariableCount": 0
+    },
+    {
+      "Key": "View/CampaignFinalStats/Save/RegimentDeletedHeader",
+      "Translation": "連隊の削除",
+      "VariableCount": 0
+    },
+    {
+      "Key": "View/CampaignFinalStats/Save/RegimentDeletedBody",
+      "Translation": "本当にこの連隊を殿堂から削除しますか？",
+      "VariableCount": 0
+    },
+    {
+      "Key": "View/CampaignFinalStats/Save/OfficerDeletedHeader",
+      "Translation": "将校の削除",
+      "VariableCount": 0
+    },
+    {
+      "Key": "View/CampaignFinalStats/Save/OfficerDeletedBody",
+      "Translation": "本当にこの将校を殿堂から削除しますか？",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Battle/Tooltip/Personality/Header",
+      "Translation": "性格",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Battle/Tooltip/Personality/Body",
+      "Translation": "現在の性格",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Battle/Tooltip/Personality/BalancedHeader",
+      "Translation": "バランス型の軍",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Battle/Tooltip/Personality/BalancedBody",
+      "Translation": "この軍の性格はバランス型です。攻守の戦術に偏りがなく、戦場の状況に応じて動的に態勢を変化させます。",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Battle/Tooltip/Personality/AggressiveHeader",
+      "Translation": "攻撃的な軍",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Battle/Tooltip/Personality/AggressiveBody",
+      "Translation": "この軍の性格は攻撃的です。攻勢を好み、プレイヤー軍との距離を素早く詰めようとします。砲兵による圧倒的な優位がない限り、守備に回ることは稀です。",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Battle/Tooltip/Personality/DefensiveHeader",
+      "Translation": "防守的な軍",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Battle/Tooltip/Personality/DefensiveBody",
+      "Translation": "この軍の性格は防守的です。守備を好み、戦場内の防御に適した位置を確保して死守します。砲兵の数で大幅に上回っていない限り、攻撃を仕掛けてくることは稀です。",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Strategem/HumanWaveAttacksHeader",
+      "Translation": "人海戦術",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Strategem/HumanWaveAttacksBody",
+      "Translation": "突撃ダメージ <color=#009300>+{0}%</color>\n補充速度 <color=#CB2225>{1}%</color>",
+      "VariableCount": 2
+    },
+    {
+      "Key": "Strategem/PincerTacticsHeader",
+      "Translation": "挟撃戦術",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Strategem/PincerTacticsBody",
+      "Translation": "側面射撃ダメージ <color=#009300>+{0}%</color>\n移動速度 <color=#009300>+{1}%</color>",
+      "VariableCount": 2
+    },
+    {
+      "Key": "Strategem/MeleeDisciplineHeader",
+      "Translation": "白兵戦の規律",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Strategem/MeleeDisciplineBody",
+      "Translation": "白兵戦スキル <color=#009300>+{0}%</color>",
+      "VariableCount": 1
+    },
+    {
+      "Key": "Strategem/SteadyRanksHeader",
+      "Translation": "堅固な隊列",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Strategem/SteadyRanksBody",
+      "Translation": "受ける士気ダメージ <color=#009300>{0}%</color>",
+      "VariableCount": 1
+    },
+    {
+      "Key": "Strategem/FreshWaterSuppliesHeader",
+      "Translation": "生水の補給",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Strategem/FreshWaterSuppliesBody",
+      "Translation": "スタミナ <color=#009300>+{0}%</color>",
+      "VariableCount": 1
+    },
+    {
+      "Key": "Strategem/WellKeptArmsHeader",
+      "Translation": "入念な武器整備",
+      "VariableCount": 0
+    },
+    {
+      "Key": "Strategem/WellKeptArmsBody",
+      "Translation": "射程 <color=#009300>+{0}%</color>\n精度 <color=#009300>+{1}%</color>",
+      "VariableCount": 2
     }
   ]
 }
